@@ -17,7 +17,7 @@ header {width: 1250px; margin: 0 auto;}
 #nav ul li:first-child {padding-left: 23px; padding-right: 23px;}
 #nav ul li.activ {background: url(../img/activ-bg.png) center top no-repeat;}
 html.svg #nav ul li.activ {background-image: url(../img/activ-bg.svg);}
-#nav ul li a {text-decoration: none;}
+#nav ul li a {text-decoration: none;  }
 
 .container {width: 1250px; margin: 0 auto;}
 .title {text-align: center; padding: 29px 0 0 0;}
